@@ -32,7 +32,7 @@ public class HomeActivity extends AppCompatActivity
     ProgressDialog progressDialog;
     private Activity mContext = this;
     private WebView webView;
-    private String url = "https://www.theandroid-mania.com/";
+    private String url = "https://ewellnessindia.com";
     private View llError;
     private String currentUrl = "";
 
