@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">The Android Mania</string>
-    <string name="header_title">Murait Technologies</string>
-    <string name="title_activity_home">The Android Mania</string>
+    <string name="app_name">eWellness India</string>
+    <string name="header_title">Health care & Diagnosis center</string>
+    <string name="title_activity_home">eWellness India</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
-    <string name="email">hello@murait.com</string>
-    <string name="phone">+918586099020</string>
+    <string name="email">support@ewellnessindia.com</string>
+    <string name="phone">+919725100500</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
