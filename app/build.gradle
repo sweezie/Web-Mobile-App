@@ -17,7 +17,7 @@ repositories {
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "murait.the.android.mania"
+        applicationId "ewellnessindia.com"
         minSdkVersion 16
         targetSdkVersion 27
         versionCode 1
